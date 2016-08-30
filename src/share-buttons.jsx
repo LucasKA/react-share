@@ -59,6 +59,7 @@ export default class ShareButton extends Component {
 
     return (
       <div
+        data-social-network={network}
         onClick={this.onClick}
         className={classes}
         style={{
