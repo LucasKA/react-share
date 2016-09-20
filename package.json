@@ -1,5 +1,5 @@
 {
-  "name": "react-share",
+  "name": "react-share-bar",
   "version": "1.8.5",
   "description": "Easy social media share buttons and share counts.",
   "main": "./lib/react-share.js",
