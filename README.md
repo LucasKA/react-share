@@ -1,13 +1,9 @@
-# react-share
+###
 
-[![npm version](https://badge.fury.io/js/react-share.svg)](https://badge.fury.io/js/react-share)
-[![Download Count](http://img.shields.io/npm/dm/react-share.svg?style=flat-square)](https://npmjs.org/package/react-share)
+This package is a public fork of react share for my own nefarious uses. Please use this instead of mine.
 
-> Easy social media share buttons and share counts.
+https://github.com/nygardk/react-share
 
-<img src="example.png" alt="Share buttons and counts example" />
-
-### News
 
 ##### 15.5.2016
 
