@@ -16,20 +16,9 @@
     "prepublish": "npm run build",
     "start": "npm run run-demos"
   },
-  "keywords": [
-    "react",
-    "component",
-    "react-component",
-    "social",
-    "media",
-    "social-media",
-    "share",
-    "button",
-    "count"
-  ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/nygardk/react-share"
+    "url": "https://github.com/lucaska/react-share-bar"
   },
   "author": {
     "name": "Klaus Nygård",
